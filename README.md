@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MiKhai37
-- 👀 I’m interested in Data Science and Web Development
-- 🌱 I’m currently learning reactjs nodejs
+- 👀 I’m interested in Data Science and App Development
+- 🌱 I’m currently learning React Node Firebase
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
