@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MiKhai37
 - 👀 I’m interested in Data Science and Web Android Development
-- 🌱 I’m currently learning React and Node
+- 🌱 I’m currently learning NextJS (React framework with backend) and NodeJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
