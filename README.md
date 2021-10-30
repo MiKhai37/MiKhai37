@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MiKhai37
 - 👀 I’m interested in Data Science and Web Development
-- 🌱 I’m currently learning NextJS (React framework with backend) and NodeJS
+- 🌱 I’m currently learning Git Workflow and NextJS (React framework with API Back End)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
