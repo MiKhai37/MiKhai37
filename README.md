@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @MiKhai37
-- 👀 I’m interested in Data Science and Web Development
+- 👋 Hi, I’m Michael Tanguy (@MiKhai37)
+- 👀 I’m interested in Web Development, Data Science and Computer Programming overall
 - 🌱 I’m currently learning Git Workflow and NextJS (React framework with API Back End)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: mi.khai.thai@gmail.com
 
 <!---
 MiKhai37/MiKhai37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
