@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Michael Tanguy (@MiKhai37)
 - 👀 I’m interested in Web Development, Data Science and Computer Programming overall
-- 🌱 I’m currently learning Git Workflow, Cypress (E2E Testing) and Flask/Django (python framework for web app)
-- 📫 How to reach me: mi.khai.thai@gmail.com
+- 🌱 I’m currently learning penetration testing
 
 ### 🛠 &nbsp;Tech Stack &nbsp; 🧰
 
