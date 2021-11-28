@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michael Tanguy (@MiKhai37)
 - 👀 I’m interested in Web Development, Data Science and Computer Programming overall
-- 🌱 I’m currently learning penetration testing
+- 🌱 I’m currently learning penetration testing (cyber security)
 
 ### 🛠 &nbsp;Tech Stack &nbsp; 🧰
 
